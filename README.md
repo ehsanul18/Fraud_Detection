@@ -21,7 +21,6 @@ from sklearn.preprocessing import StandardScaler, PowerTransformer, MinMaxScaler
 from sklearn.ensemble import RandomForestClassifier, BaggingClassifier, GradientBoostingClassifier
 from sklearn.naive_bayes import GaussianNB
 from xgboost import XGBClassifier
-
 ```
 
 ### Datasets
