@@ -24,6 +24,6 @@ from xgboost import XGBClassifier
 ```
 
 ### Datasets
-The datasets can be obtained from the following link: [Datasets](https://www.kaggle.com/c/ieee-fraud-detection/data)
+The dataset has been taken from a kaggle competition and it can be obtained from the following link: [Datasets](https://www.kaggle.com/c/ieee-fraud-detection/data)
 
 
